@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Plensia Lukosi
+- 👋 Hi, I’m Plensia Lukosi
 - 👀 I’m interested in Data and Machine Learning
 - 🌱 I’m currently learning Data Analysts tools(Power Bi, Python, Excel and SQL).
 - 📫 How to reach me ..plensiapl@gmail.com
